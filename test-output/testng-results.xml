@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12759" started-at="2022-06-09T05:02:40Z" finished-at="2022-06-09T05:02:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12759" started-at="2022-06-09T05:02:40Z" finished-at="2022-06-09T05:02:52Z">
+      <class name="testScript.SkillraryTest">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testScript.SkillraryTest@4dfa3a9d]" name="openApp" is-config="true" duration-ms="9386" started-at="2022-06-09T10:32:40Z" finished-at="2022-06-09T10:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:testScript.SkillraryTest@4dfa3a9d]" name="test" duration-ms="3297" started-at="2022-06-09T10:32:49Z" finished-at="2022-06-09T10:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testScript.SkillraryTest@4dfa3a9d]" name="closeApp" is-config="true" duration-ms="74" started-at="2022-06-09T10:32:52Z" finished-at="2022-06-09T10:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testScript.SkillraryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
